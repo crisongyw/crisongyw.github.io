@@ -1,0 +1,44 @@
+.profile-picture {
+	max-width: 100%;
+}
+
+.col-md-4, .col-md-12 {
+	padding: 3px;
+}
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 400%;
+}
+
+.progress-bar {
+	height: 100px;
+}
+
+.progress-red {
+	background-color: #ff6666;
+}
+
+.progress-orange {
+	background-color: #ffb366;
+}
+
+.progress-yellow {
+	background-color: #ffe066;	
+}
+
+.progress-green {
+	background-color: #85e085;
+}
+
+.progress-blue {
+	background-color: #66e0ff;
+}
+
+.progress-pink {
+	background-color: #ff80d5;
+}
+
+.progress-purple {
+	background-color: #748DF2;
+}
