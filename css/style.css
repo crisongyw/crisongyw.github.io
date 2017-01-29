@@ -6,9 +6,25 @@
 	padding: 3px;
 }
 
-h1 {
+h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 700%;
+}
+
+h2 {
 	font-family: 'Fjalla One', sans-serif;
-	font-size: 400%;
+	font-size: 300%;
+}
+
+.icon-resize {
+	padding-top: 4px;
+	padding-left: 20px;
+	padding-right: 0px;
+	padding-bottom: 0px; 
+}
+
+.icon-title {
+	padding-top: 0px;
 }
 
 .progress-bar {
